@@ -1,0 +1,1 @@
+Se debe ejecutar el ADNmain. Al ejecutarlo aparecerá un menú donde se puede elegir una opción numérica. Para introducir cadenas se deben meter A,C,T,G para ADN y C,G,U,A para ARN (en el genoma introducir lo mismo que en ADN).
